@@ -1,0 +1,737 @@
+vagrant status
+repogit/
+ls -la
+cd ..
+ls
+cd ..
+ls
+cd ..
+cd
+repogit/
+ls -la
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls
+cat id_ed25519
+cat id_ed25519.pub
+cd ..
+ls
+cd repogit/
+ls
+cd ..
+ls
+cd bruno_vagrant/
+ls
+cd ..
+ls
+cd repogit/
+ls
+git clone git@github.com:brunozapata2006/bruno_vagrant.git
+ls
+cd bruno_vagrant/
+ls
+cd .
+cd ..
+ls
+cd bruno_vagrant/
+ls
+history
+history > historial.txt
+ls
+git status
+git add .
+git status
+git commit -m "primer commit"
+git confir --global user.mail "brunozapata006@gmail.com
+git confir --global user.mail "brunozapata006@gmail.com
+git config --global user.name "brunozapta006"
+ls
+git status
+git commit -m "primer commit"
+git commit --amed --reset-author
+git status
+git push
+cd ..
+cat bruno_vagrant/
+cd ..
+cat repogit/
+ls
+cat carpeta_compartida/
+cd carpeta_compartida/
+ls
+cat script_Enable_ssh_password.sh 
+cd ..
+ls
+cd repogit/
+ls
+cd bruno_vagrant/
+ls
+cat historial.txt 
+cd man
+cd man man
+ls man man
+ls man
+ls
+cd
+ls
+ssh-keygen
+$home
+$HOME
+cd $HOME
+ls -la
+cd .ssh
+cat \$HOME/.ssh/.pub
+cat \$HOME/.ssh/*.pub
+cat $HOME/.ssh/*.pub
+cat $HOME/.ssh/
+cat $HOME/.ssh/*.
+cat $HOME/.ssh/*
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+mkdir repogit/
+git clone git@github.com:brunozapata2006/TP_AySO.git
+cd
+clear
+ls
+cd bruno_vagrant/
+ls
+git status
+cat<<fin
+historial.txt 
+clear
+cat
+ls
+c
+cd
+ex
+ie
+exit
+quit
+224
+l
+ls
+S.fasdgasd
+cd
+
+cd
+c
+d
+cd
+c
+d
+
+cat
+finn
+vagrant upp
+
+cd repogit/
+ls
+cd TP_AySO/
+cat | head /proc/cpuinfo | grep -n "model name"| >> datos_usuarios.txt
+cat datos_usuario
+cat datos_usuario.txt
+cat | head /proc/cpuinfo | grep -n "model name"| >> datos_usuarios.txt
+cat datos_usuario.txt
+cat /proc/cpuinfo head | grep "model name" | >> datos_usuario.txt
+cat /proc/cpuinfo | head | grep "model name" | >> datos_usuario.txt
+cat datos_usuario.txt
+cat /proc/cpuinfo | grep "model name" | >> datos_usuario.txt
+cat datos_usuario.txt
+cat /proc/cpuinfo 
+cat /proc/cpuinfo | grep "model name" |
+cd 
+ls
+cd repogit/
+cd TP_AySO/
+ls
+datos_usuarios.txt
+cat datos_usuario
+cat datos_usuario.txt 
+cat datos_usuario.txt
+cat datos_usuario.txt > datos_usuario.txt
+ls
+delete datos_usuario.txt
+rm datos_usuario.txt
+ls
+cat datos_usuarios.txt
+rm datos_usuarios.txt 
+ls
+clear
+git
+git status
+echo "usuario=$(whoami)" > datos_usuario.txt
+cat datos_usuario.txt 
+cat /proc/cpuinfo | head | grep "model name" 
+cat /proc/cpuinfo | head | grep "model name" | >> datos_usuario.txt 
+cat datos_usuario.txt 
+cat /proc/cpuinfo | head | grep "model name" >> datos_usuario.txt 
+cat datos_usuario.txt
+ls
+git status
+git add .
+git commit -m "commit del tp"
+git status
+git commit --ammed --reset-author
+git status
+cat datos_usuario.txt 
+feat: "añadiendo informacion de cpu"
+"feat: añadiendo informacion de cpu"
+cat datos_usuario.txt 
+cat /etc/passwd
+cat /etc/passwd | head 10
+cat /etc/passwd | head -n 10
+cat /etc/passwd | head -n 10 > lista_ordenada.txt
+cat lista_ordenada.txt 
+cat /etc/passwd | head -n 10 | grep -v nologin  > lista_ordenada.txt
+cat lista_ordenada.txt 
+cat /etc/passwd | head -n 40 | grep -v nologin  > lista_ordenada.txt
+cat lista_ordenada.txt 
+cat /etc/passwd | head -n 70 | grep -v nologin  > lista_ordenada.txt
+cat lista_ordenada.txt 
+cat /etc/passwd | head -n 100 | grep -v nologin  > lista_ordenada.txt
+cat lista_ordenada.txt 
+cat /etc/passwd | head -n 100 | grep -v nologin  > lista_ordenada.txt
+cat lista_ordenada.txt 
+cat lista_ordenada.txt | sort >> lista_ordenada.txt 
+cat lista_ordenada.txt 
+cat /etc/passwd | head -n 100 | grep -v nologin | sort > lista_ordenada.txt
+cat lista_ordenada.txt 
+sort lista_ordenada.txt -t ":" -k7
+grep -v noling /etc/passwd | sort -t":" -k7 > lista_ordenada.txt 
+cat lista_ordenada.txt 
+cat grep -v noling /etc/passwd | sort -t":" -k7 > lista_ordenada.txt 
+cat | grep -v noling /etc/passwd | sort -t":" -k7 | head -n 100 > lista_ordenada.txt 
+cat lista_ordenada.txt 
+cat /etc/passwd | head -n 100 | grep -v nologin | sort > lista_ordenada.txt
+cat lista_ordenada.txt 
+cat /etc/passwd | head -n 100 | grep -v nologin | sort -t":" -k7 | > lista_ordenada.txt 
+cat lista_ordenada.txt 
+cat /etc/passwd | head -n 100 | grep -v nologin | sort > lista_ordenada.txt 
+cat lista_ordenada.txt 
+git status
+git add .
+git status
+git add lista_ordenada.txt 
+git status
+git add "datos_usuario.txt"
+git status
+git add "listado de usuarios ordenado"
+git add listado de usuarios ordenado
+ls
+apropos "dump traffic"
+apropos "dump traffic" > comando_dump_net
+lcpdump
+echo apropos "dump traffic" >> comando_dump_net
+cat comando_dump_net 
+ls
+git add .
+git status
+cat lista_ordenada.txt 
+git add "lista_ordenada.txt" 
+ls
+git status
+cat << chau >> README.md 
+Alumno: Bruno Zapata
+Division: 113-2
+Turno: Mañana
+chau
+
+ls
+cat README.md 
+cat << chau > README.md 
+Alumno: Bruno Zapata
+Division: 113-2
+Turno: Mañana
+chau
+
+ls
+cat README.md 
+history
+ls
+history -a \$HOME/.bash_history
+history -a $HOME/.bash_history
+history 
+ls -la $HOME
+history -a $HOME/.bash_history
+ls
+cd repogit/
+cd TP_AySO/
+ls
+cat README.md 
+cat comando_dump_net 
+cat datos_usuario.txt 
+cat lista_ordenada.txt 
+git status
+git push
+cd
+exit
+cp $HOME/.bash_history > historial_comandos.txt
+cp $HOME/.bash_history  historial_comandos.txt
+git push
+ls
+rm historial_comandos.txt 
+ls
+rm README.md 
+ls
+cat lista_ordenada.txt 
+git status
+git restore README.md 
+ls
+echo << chau > README.md 
+Alumno: Bruno Zapata
+Division: 113-2
+Turno: Mañana
+chau
+
+ls
+cat README.md 
+cat << chau > README.md 
+alumno: Bruno Zapata
+Division: 113-2
+Turno: Mañana
+chau
+
+cat README.md 
+ls
+cat comando_dump_net 
+cat datos_usuario.txt 
+cat lista_ordenada.txt 
+git
+git status
+ls
+git
+git status
+gid add README.md 
+sumo git add README.md 
+apt install sumo
+sumo git add README.md 
+git status
+git add README.md 
+git status
+ls
+git add comando_dump_net 
+git add datos_usuario.txt 
+git add lista_ordenada.txt 
+ls
+git status
+ls
+git add datos_usuario.txt 
+git add datos_usuario.txt
+git status
+git restore --stage datos_usuario.txt
+git status
+git push
+git add .
+git commit -m "commitTP"
+git commit --amend --reset-author
+ls
+bc <<< 69 * 2
+ls
+cd bruno_vagrant/
+ls
+git status
+bc <<< 2+1
+bc <<< 69*2
+bc <<< 99 / 2
+bc <<< 4/2
+bc <<< 4 / 2
+bc <<< 60/2
+bc <<< 60//2
+echo"usando el >>" >> historial.txt 
+echo "usando el >>" >> historial.txt 
+history 
+git push
+echo "hola" > archivo1.txt
+echo "hola2" >> archivo1.txt
+cat archivo1.txt 
+cd
+ls
+cd repogit/
+ls
+cd bruno_vagrant/
+ls
+echo "hola" > archivo1.txt
+echo "hola2" >> archivo1.txt
+cat archivo1.txt 
+bc <<< 1+2
+cat archivo2.txt
+cat << FIN > archivo2.txt
+fg
+fin
+FIN
+
+cat archivo2.txt 
+cat << FIN > archivo2.txt
+fg
+fin
+FIN
+
+asd
+cat << FIN > archivo2.txt
+fg
+fin
+s
+f
+hola mundo
+hola git
+:v
+fin
+FIN
+
+cat archivo2.txt 
+cat << FIN > archivo2.txt
+fg
+fin
+s
+f
+hola mundo
+hola git
+:v
+fin
+
+hola
+quetal
+FIN
+
+cat << FIN > archivo2.txt
+fg
+fin
+s
+f
+hola mundo
+hola git
+:v
+fin
+
+hola
+quetal
+c
+cjat
+ultiFINalmente
+FIN
+
+cat archivo2.txt archivo1.txt > archivo4.txt
+cat archivo4.txt 
+cat archivo 2 
+
+cat archivo1.txt > archivo4.txt 
+cat archivo4.txt 
+cat archivo2.txt >> archivo4.txt 
+cat archivo4
+cat archivo4.txt 
+echo "hola mundo" | wc
+cat archivo1.txt  | head -n2
+
+cat archivo2.txt  | head -n2
+cat archivo2.txt  | head -n4
+cat archivo2.txt  | head -n10 | grep -n1
+cat archivo2.txt  | head -n10 | grep -n 1
+cat archivo2.txt 
+cat archivo2.txt | tail -n2
+cat archivo2.txt | head -n2 | grep -n linea
+cat archivo2.txt | head -n2 | grep -n2 linea
+cat archivo2.txt | grep 
+cat archivo2.txt | grep h
+cat archivo2.txt | grep s
+cat archivo2.txt | grep a
+cat archivo2.txt | grep a, b
+cat archivo2.txt | grep a b
+cat archivo2.txt | grep b
+cat archivo2.txt | grep a
+cat archivo2.txt | grep a, h
+cat archivo2.txt | grep a h
+cat archivo2.txt | grep h
+cat archivo2.txt | grep a
+cat archivo2.txt 
+cat archivo2.txt | grep -n h | grep -n a | head -n 11
+cat archivo2.txt | grep -n h | head -n 11
+cat archivo2.txt | grep -n | head -n 11
+cat archivo2.txt | grep -n a| head -n 11
+grep -i proce /proc/cpuinfo 
+cat archivo.txt
+cat << chau > archivo.txt
+codigo python
+codigo java
+codigo js
+codigo cs
+codigo pro
+programacion1
+programacion2
+chau
+
+ls
+cat archvio.txt | grep -n js | grep -n java
+cat archivo.txt
+cat archivo.txt | grep -n js | grep -n java
+cat archivo.txt | grep -n js
+cat /proc/cpuinfo 
+grep /proc/cpuinfo | grep -n proce
+cat /proc/cpuinfo 
+grep proce
+grep Proce
+cat /proc/cpuinfo | grep proce
+cat /proc/cpuinfo | grep model
+cat /proc/cpuinfo | grep mODeL
+cat /proc/cpuinfo | grep -i mODeL
+cat /proc/cpuinfo | grep -i mODeL | grep name
+cat /proc/cpuinfo | grep -in mODeL
+cat /proc/cpuinfo | grep -in mODeL | grep -n name
+history
+cat /proc/cpuinfo | grep -i mODeL
+cat /proc/cpuinfo | grep -in mODeL | grep -n name
+cat /etc/passwd
+cat /etc/passwd | sort
+cat /etc/shadow
+sudo
+sudo cat /etc/shadow
+cd
+ssh-keygen
+ls -la
+cd .ssh
+ls
+[200~cat $HOME/.ssh/*.pub
+cat $HOME/.ssh/*.pub
+cd
+ls
+cd repogit/
+git clone git@github.com:brunozapata2006/TP_AySO.git
+ls
+cd TP_AySO/.git/
+cd ..
+ls
+pwd
+ls -l
+os-relese
+os-relesae
+os-release
+pwd
+ls -l
+cat /etc/os-release 
+man grep
+grep -i home_url/etc/os-release
+grep -i home_url /etc/os-release
+grep -i HOME_URL /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo "usuario=$(whoami)* > datos_usuarios.txt
+vagramt
+
+whoami
+echo "usuario=$(whoami)*" 
+echo "usuario=$(whoami)*" > datos_usuarios.txt
+cat datos_usuarios.txt 
+git status
+git add .
+git commit -m "commit tp"
+git config --global user.name "brunozapata006"
+git config --global user.gmail "brunozapata006@gmail.com"
+git status
+cat datos_usuarios.txt 
+/proc
+head /proc/cpuinfo | grep -i model name" >> datos_usuario.txt
+q
+
+cat datos_usuarios.txt 
+cat /proc/cpuinfo 
+cat /proc/cpuinfo | grep -n model
+cat /proc/cpuinfo | grep -n model | grep -n 5
+cat /proc/cpuinfo | grep -n model | head -n 1
+cat /proc/cpuinfo | grep -n model | head -n 33
+cat /proc/cpuinfo | grep -n model | head -n 4
+cat /proc/cpuinfo | grep -n model | head -n name
+cat /proc/cpuinfo | grep -n model | grep -n name
+cat /proc/cpuinfo | grep model | grep name
+cat /proc/cpuinfo | grep model
+cat /proc/cpuinfo | grep model | grep name
+cat /proc/cpuinfo | grep model | grep name >> datos_usuarios.txt 
+cat datos_usuarios.txt 
+cat << FIN >> README.md 
+Alumno: Bruno zapata
+division:
+
+clear
+FIN
+
+cat /proc/cpuinfo | grep model | grep name | tail >> datos_usuarios.txt 
+cat datos_usuarios.txt 
+head /proc/cpuinfo | grep model | grep name |>> datos_usuarios.txt 
+cat datos_usuarios.txt 
+head /proc/cpuinfo | grep model name|>> datos_usuarios.txt 
+head /proc/cpuinfo | grep "model name"|>> datos_usuarios.txt 
+cat datos_usuarios.txt 
+echo “Usuario=$(whoami)” > datos_usuario.txt
+cat datos_usuario
+cat datos_usuario.txt
+head /proc/cpuinfo | grep "model name"| >> datos_usuarios.txt 
+cat datos_usuario
+cat datos_usuario.txt
+head /proc/cpuinfo | grep .n "model name"| >> datos_usuarios.txt 
+head /proc/cpuinfo | grep -n "model name"| >> datos_usuarios.txt 
+cat datos_usuario.txt
+cat | head /proc/cpuinfo | grep -n "model name"| >> datos_usuarios.txt 
+git
+git status
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+cat comando_dump_net 
+cat README.md 
+cat datos_usuario.txt 
+cat lista_ordenada.txt 
+ls
+ls -la
+history -a \$HOME/.bash_history 
+history -a $HOME/.bash_history 
+ls -la $HOME
+history -a $HOME/.bash_history 
+cp \$HOME/.bash_history Historial_comandos.txt
+cp $HOME/.bash_history Historial_comandos.txt
+ls
+git
+git add README.md
+git status
+git add .
+git add README.md 
+git status
+git commit -m "Mis datos"
+git commit --amend --reset-author
+git status
+git add lista_ordenada.txt 
+git commit -m "ADD: Listado de usuarios ordenada"
+git add comando_dump_net
+git commit -m "ADD: Comando para Capturar y analizar el trafico de red"
+git add datos_usuario.txt 
+git commit -m datos_usuario.txt  "feat: añadiendo informacion de cpu"
+git add datos_usuario.txt 
+git commit -m "feat: añadiendo informacion de cpu"
+git push
+quit
+clear
+git status
+cd
+ls
+cd repogit/
+cd Tp
+cd TP_AySO/
+ls
+git 
+git status
+ls
+git add .
+git status
+git add comando_dump_net
+git commit -m "ADD: Comando para Capturar y analizar el trafico de red"
+cat comando_dump_net 
+ls
+cd
+cd repogit/
+ls
+cd ..
+rm TP_AySO/
+cd
+.
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+cd ..
+rm TP_AySO/
+cd
+ls
+TP_AySO/
+cat TP_AySO/
+ls -la
+cd repogit/
+ls
+pwd
+git init
+ls
+cd TP_AySO/
+pwd
+git init
+ls
+git rm
+git rm TP
+cd
+git init
+ls
+rm TP_AySO/
+rm -r TP_AySO/
+ls
+repogit/
+cd repogit/
+ls
+git init
+ls
+rm TP_AySO/
+rm -r TP_AySO/
+ls
+git init
+rm -r TP_AySO/
+yesls
+ls
+git clone git@github.com:brunozapata2006/TP_AySO.git
+ls
+cd
+ls
+cat README 
+ls
+cd repogit/
+cd TP_AySO/
+ls
+cat README.md 
+ls -l
+cat /etc/os-release 
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git add .
+git commit -m "ADD: agregando 1er ejercicio sobre datos_usuarios.txt"
+git config --global user.email "brunozapata006@gmail.com
+git config --global user.email "brunozapata006@gmail.com"
+git config --global user.user "brunozapata2006"
+git status
+head /proc/cpuinfo | grep "model name" >> datos_usuario.txt 
+git add .
+git commit -m "feat: Añadiendo informacion de cpu"
+grep -v nologin /etc/passwd > lista_ordenada.txt
+sort lista_ordenada.txt -t":" -k7
+grep -v nologin /etc/passwd | sort -t":" -k7 > lista_ordenada.txt 
+ls
+cat lista_ordenada.txt 
+git add .
+git commit -m "ADD: Listado de usuarios ordenada"
+apropos "dump traffic"
+apropos "dump traffic" > comando_dump_net
+tcpdump
+echo apropos "dump traffic" >> comando_dump_net
+git add .
+git status
+ls
+git add .
+git commit -m "ADD: Comando para capturar y analizar el trafico de red"
+ls
+rm lista_ordenada.txt 
+ls
+grep -v nologin /etc/passwd > lista_ordenada
+sort lista_ordenada -t":" -k7
+grep -v nologin /etc/passwd | sort -t":" -k7 > lista_ordenada
+git add .
+git commit -m "ADD: listado de usuarios ordenada"
+cat << FIN >> README.md
+Alumno: Bruno Zapata
+Division: 113-2
+Turno: Mañana
+FIN
+
+git add .
+git commit -m "Mis datos"
+history -a $HOME/.bash_history
+ls -la $HOME 
+history -a $HOME/.bash_history
